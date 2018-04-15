@@ -1,0 +1,26 @@
+{
+  "name": "express-middleware",
+  "version": "1.0.0",
+  "description": "express middleware exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ben-marcantel/express-middleware.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ben-marcantel/express-middleware/issues"
+  },
+  "homepage": "https://github.com/ben-marcantel/express-middleware#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "dotenv": "^5.0.1"
+  }
+}
